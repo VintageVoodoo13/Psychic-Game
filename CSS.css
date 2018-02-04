@@ -3,6 +3,8 @@ body {
   font-size: 25px;
   line-height: 34px;
 
+
+
 }
 
 
@@ -27,16 +29,23 @@ h3 {
 h1 {
   padding-bottom: 20px;
   padding-left:20px;
-  font-size: 40px;
+  font-size: 25px;
   line-height: 49px;
-  
+  background-color: purple;
   
 }
 
 h2,
 h3 {
-  font-size: 22px;
+  font-size: 10px;
+  font-color:purple;
 }
+
+.game {
+  font-size:15px;
+  margin-top: 
+}
+
 
 
 /*header*/
@@ -62,8 +71,9 @@ h3 {
 /*footer*/
 
 footer {
-  padding: 30px 0;
+  padding: 30px
   clear: both;
   font-size: 12px;
   text-align: center;
+  padding-left: 275px
 }
